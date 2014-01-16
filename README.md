@@ -5,4 +5,4 @@ Submission to the Dyalog Ltd. Programming Contest. Won an introductory prize of 
 
 Problem descriptions are included.
 
-Phase 1: https://gist.github.com/chrzhang/7997242
+[Phase 1](https://gist.github.com/chrzhang/7997242)
